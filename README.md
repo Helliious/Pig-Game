@@ -9,9 +9,9 @@ browser (preferably Google Chrome).
 Rules:
 
 (1) Each time you row the dices your current score is increased with the ammount
-you rowed.
-(2) You can press hold which will add your current score to your permanent score.
+you rowed. <br />
+(2) You can press hold which will add your current score to your permanent score. <br />
 (3) If you row same digits on both dices you loose your current score,
-player 2 begins his turn.
-(4) Permanent score is not affected by rule (3).
-(5) The first person who hits 100 on the permanent score wins.
+player 2 begins his turn. <br />
+(4) Permanent score is not affected by rule (3). <br />
+(5) The first person who hits 100 on the permanent score wins. <br />
